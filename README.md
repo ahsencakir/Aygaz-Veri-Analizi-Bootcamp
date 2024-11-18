@@ -2,7 +2,19 @@
 
 # Amazon 2023 Satış Verileri Analizi: Fiyat Optimizasyonu Projesi
 
+Kaggle link: https://www.kaggle.com/code/ahsencakir/data-analysis-of-price-optimization-model
+
 Bu proje, Amazon'un 2023 satış verilerini analiz ederek fiyat optimizasyonu üzerine odaklanmaktadır. Temel amaç, ürün fiyatlandırmalarını optimize ederek talebi artırmak ve gelirleri maksimize etmeye yönelik öngörüler geliştirmektir.
+
+name: Ürünün ismi
+main_category: Ürünün ait olduğu ana kategori
+sub_category: Ürünün ait olduğu alt kategori
+image: Ürünün görüntüsü
+link: Ürünün Amazon websitesindeki bağlantısı
+ratings: Müşterilerin ürüne verdiği puanlama
+no_of_ratings: Ürün ne kadar sayıda puanlandığı
+discount_price: Ürünün indirimli fiyatı
+actual_price: Ürünün asıl fiyatı
 
 ## Proje Senaryosu
 
